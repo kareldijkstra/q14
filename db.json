@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Voornaam": "Apple",
+    "Tussenvoegsel": "Large",
+    "Achternaam": "Red",
+    "E-mail": "fred@dijkstra.com",
+    "Telefoonnummer": "0627482387"
 }
